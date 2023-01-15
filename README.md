@@ -7,8 +7,8 @@ Updated: 15-01-2023
 ## Contents
 - [Simple Summary](#Simple-Summary)
 - [Specifications](#Specifications)
-- [Bill of materials (BOM)](#Bill-of-materials-(BOM)-📜)
-- [Changelog](#Changelog-📒)
+- [Bill of materials (BOM)](#Bill-of-materials-(BOM))
+- [Changelog](#Changelog)
 
 ## Simple Summary
 Plus-sized break-in machine for MX style switches with the capability of breaking in 100 switches at one go.
