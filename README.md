@@ -1,5 +1,5 @@
 ---
-Title: MX Switch Break-In Machine+ Instruction Manual
+Title: MX Switch Break-In Machine+ Documentation
 Created: 15-01-2023
 Updated: 15-01-2023
 ---
