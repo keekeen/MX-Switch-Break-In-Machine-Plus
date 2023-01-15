@@ -7,8 +7,8 @@ Updated: 15-01-2023
 ## Contents
 - [Simple Summary](#Simple-Summary)
 - [Specifications](#Specifications)
-- [Bill of materials (BOM) 📜](#Bill-of-materials-(BOM))
-- [Changelog 📒](#Changelog)
+- [Bill of materials (BOM)](#Bill-of-materials-(BOM))
+- [Changelog](#Changelog)
 
 ## Simple Summary
 Plus-sized break-in machine for MX style switches with the capability of breaking in 100 switches at one go.
@@ -19,7 +19,7 @@ Plus-sized break-in machine for MX style switches with the capability of breakin
 - Operating speed: **700-800** actuations/min (measured based on 100 Cherry MX Brown)
 - Actuation mode: Off-centered actuation only
 
-## Bill of materials (BOM)
+## Bill of materials (BOM) 📜
 Your break-in machine should come pre-assembled. However, below are the parts breakdown for reference.
 | Part                                 | Qty | Remark                                       |
 | ------------------------------------ | --- | -------------------------------------------- |
@@ -43,5 +43,5 @@ Below parts are only applicable for counter add-ons.
 | D3V-16-\* or<br>D3V-11-\* or<br>D3V-01-\* or<br>D3V-6-\*<br> *e.g. D3V-16-1C24*| 1   | Limit switch for counter, any plunger pin models should work. Refer to [datasheet](/Production/Datasheet/D3V.pdf) for more info. |
 | M3 x 12mm                            | 2   | Fasterners for counter switch and top housing |
 
-## Changelog
+## Changelog 📒
 - `15/01/2023:` Initial documentation draft 
