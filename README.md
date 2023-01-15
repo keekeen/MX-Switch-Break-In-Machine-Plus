@@ -3,6 +3,7 @@ Title: MX Switch Break-In Machine+ Instruction Manual
 Created: 15-01-2023
 Updated: 15-01-2023
 ---
+<img src="Images/Exploded_View.gif" align="right" width="400px" alt="exploded view">
 
 ## Contents
 - [Simple Summary](#Simple-Summary)
@@ -13,11 +14,7 @@ Updated: 15-01-2023
 - [Changelog](#Changelog)
 
 ## Simple Summary
-<img src="Images/Exploded_View.gif" align="right" width="400px" alt="exploded view">
-
-<p align="justify">
-  Plus-sized break-in machine for MX style switches with the capability of breaking in 100 switches at one go.
-</p>
+Plus-sized break-in machine for MX style switches with the capability of breaking in 100 switches at one go.
 
 ## Specifications
 - Max number of switches per run: **100 switches**
