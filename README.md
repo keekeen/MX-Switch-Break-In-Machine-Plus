@@ -20,6 +20,8 @@ Plus-sized break-in machine for MX style switches with the capability of breakin
 - Max number of switches per run: **100 switches**
 - Compatibility: MX style switches with total travel distance of **3-4mm**
 - Operating speed: **700-800** actuations/min (measured based on 100 Cherry MX Brown)
+  - 100k actuations: 2-3 hrs
+  - 1mil actuations: 20-30 hrs 
 - Actuation mode: Off-centered actuation only
 
 ## Bill of materials (BOM) 📜
@@ -54,7 +56,7 @@ Below parts are only applicable for counter add-ons.
 Apply a generous amount of lubricate between the pusher and machine bottom housing once in awhile/prior to use.
 
 #### If you decide to <del>dissect</del> disassemble the machine: 
-Refer to the following as a reference and please take extra precaution on text that are highlighted in **bold**. 
+Refer to the following as a reference when assembling and please take extra precaution on text that are highlighted in **bold**. 
 
 ## Changelog 📒
 - `15/01/2023:` Initial documentation draft 
