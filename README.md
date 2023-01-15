@@ -33,6 +33,7 @@ Your break-in machine should come pre-assembled. However, below are the parts br
 | Switch plate (5 x 5)                 | 4   | Injection moulded ABS with matte black finishing |
 | Spacer card (~0.25mm)                | 16  | Paper card with ~0.25mm thick |
 | Bearing/motor connector              | 1   | Vacuum casted ABS with matte black finishing |
+| 625ZZ bearing with POM wheel         | 1   | - |
 | DC Motor with planetary gearbox      | 1   | - |
 | Power supply (24V 1A rated)          | 1   | - |
 | Bumpon                               | 8   | 8mm diameter |
