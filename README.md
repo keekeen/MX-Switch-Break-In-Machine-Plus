@@ -47,7 +47,7 @@ Below parts are only applicable for counter add-ons.
 | D3V-16-\* or<br>D3V-11-\* or<br>D3V-01-\* or<br>D3V-6-\*<br> *e.g. D3V-16-1C24*| 1   | Limit switch for counter, any plunger pin models should work. Refer to [datasheet](/Production/Datasheet/D3V.pdf) for more info. |
 | M3 x 12mm                            | 2   | Fasterners for counter switch and top housing |
 
-## Operation Guide 
+## Operation Guide ⚙️
 
 ## Maintenance/Assembly Guide 🔧
 #### For general maintenace:
