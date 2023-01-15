@@ -13,7 +13,7 @@ Updated: 15-01-2023
 - [Maintenance/Assembly Guide](#Maintenance/Assembly-Guide)
 - [Changelog](#Changelog)
 
-## Simple Summary
+## Summary
 Plus-sized break-in machine for MX style switches with the capability of breaking in 100 switches at one go.
 
 ## Specifications
