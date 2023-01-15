@@ -8,10 +8,16 @@ Updated: 15-01-2023
 - [Simple Summary](#Simple-Summary)
 - [Specifications](#Specifications)
 - [Bill of materials (BOM)](#Bill-of-materials-(BOM))
+- [Operation Guide](#Operation-Guide)
+- [Maintenance/Assembly Guide](#Maintenance/Assembly-Guide)
 - [Changelog](#Changelog)
 
 ## Simple Summary
-Plus-sized break-in machine for MX style switches with the capability of breaking in 100 switches at one go.
+<img src="Images/Exploded_View.gif" align="right" width="400px" alt="exploded view">
+
+<p align="justify">
+  Plus-sized break-in machine for MX style switches with the capability of breaking in 100 switches at one go.
+</p>
 
 ## Specifications
 - Max number of switches per run: **100 switches**
