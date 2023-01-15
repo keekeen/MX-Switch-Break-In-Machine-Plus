@@ -28,7 +28,7 @@ Your break-in machine should come pre-assembled. However, below are the parts br
 | Pusher                               | 4   | Injection moulded ABS with matte black finishing |
 | Off centered insert (40A duro)       | 4   | Injection moulded TPU in blue |
 | Switch plate (5 x 5)                 | 4   | Injection moulded ABS with matte black finishing |
-| Spacer card (~0.3mm)                 | 12  | Paper card with ~0.3mm thick |
+| Spacer card (~0.25mm)                | 16  | Paper card with ~0.25mm thick |
 | Bearing/motor connector              | 1   | Vacuum casted ABS with matte black finishing |
 | DC Motor with planetary gearbox      | 1   | - |
 | Power supply (24V 1A rated)          | 1   | - |
@@ -42,6 +42,15 @@ Below parts are only applicable for counter add-ons.
 | ------------------------------------ | --- | -----
 | D3V-16-\* or<br>D3V-11-\* or<br>D3V-01-\* or<br>D3V-6-\*<br> *e.g. D3V-16-1C24*| 1   | Limit switch for counter, any plunger pin models should work. Refer to [datasheet](/Production/Datasheet/D3V.pdf) for more info. |
 | M3 x 12mm                            | 2   | Fasterners for counter switch and top housing |
+
+## Operation Guide 
+
+## Maintenance/Assembly Guide 🔧
+#### For general maintenace:
+Apply a generous amount of lubricate between the pusher and machine bottom housing once in awhile/prior to use.
+
+#### If you decide to <del>dissect</del> disassemble the machine: 
+Refer to the following as a reference and please take extra precaution on text that are highlighted in **bold**. 
 
 ## Changelog 📒
 - `15/01/2023:` Initial documentation draft 
