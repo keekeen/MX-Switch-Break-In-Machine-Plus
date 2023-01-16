@@ -23,7 +23,7 @@ Plus-sized break-in machine for MX style switches with the capability of breakin
 - Operating speed: **700-800** actuations/min (measured based on 100 Cherry MX Brown)
   - 100k actuations: 2-3 hrs
   - 1mil actuations: 20-30 hrs 
-- Actuation mode: Off-centered actuation only
+- Actuation mode: Supports both centered/off-centered actuation 
 
 ## Bill of materials (BOM) 📜
 Your break-in machine should come pre-assembled. However, below are the parts breakdown for reference.
