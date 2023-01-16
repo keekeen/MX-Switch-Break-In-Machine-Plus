@@ -53,7 +53,7 @@ Below parts are only applicable for counter add-ons.
 
 ## Maintenance/Assembly Guide 🔧
 #### For general maintenace:
-Apply a generous amount of lubricate between the pusher and machine bottom housing once in awhile/prior to use.
+Apply a generous amount of lubricant between the pusher and machine housing and bearing once in awhile/prior to use.
 
 #### If you decide to <del>dissect</del> disassemble the machine: 
 Refer to the following as a reference when assembling and please take extra precaution on text that are highlighted in **bold**. 
