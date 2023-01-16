@@ -1,17 +1,18 @@
 ---
 Title: MX Switch Break-In Machine+ Documentation
+Status: WIP
 Created: 15-01-2023
 Updated: 15-01-2023
 ---
 <img src="Images/Exploded_View.gif" align="right" width="400px" alt="exploded view">
 
 ## Contents
-- [Summary](#Summary)
-- [Specifications](#Specifications)
-- [Bill of materials (BOM)](#Bill-of-materials-(BOM))
-- [Operation Guide](#Operation-Guide)
-- [Maintenance/Assembly Guide](#Maintenance/Assembly-Guide)
-- [Changelog](#Changelog)
+- [Summary](#summary)
+- [Specifications](#specifications)
+- [Bill of materials (BOM)](#bill-of-materials-bom-)
+- [Operation Guide](#operation-guide-%EF%B8%8F)
+- [Maintenance/Assembly Guide](#maintenanceassembly-guide-)
+- [Changelog](#changelog-)
 
 ## Summary
 Plus-sized break-in machine for MX style switches with the capability of breaking in 100 switches at one go.
