@@ -6,7 +6,7 @@ Updated: 15-01-2023
 <img src="Images/Exploded_View.gif" align="right" width="400px" alt="exploded view">
 
 ## Contents
-- [Simple Summary](#Simple-Summary)
+- [Summary](#Summary)
 - [Specifications](#Specifications)
 - [Bill of materials (BOM)](#Bill-of-materials-(BOM))
 - [Operation Guide](#Operation-Guide)
