@@ -33,14 +33,15 @@ Your break-in machine should come pre-assembled. However, below are the parts br
 | Top Housing                          | 1   | Vacuum casted ABS with matte black finishing |
 | Bottom Housing                       | 1   | Vacuum casted ABS with matte black finishing |
 | Pusher                               | 4   | Injection moulded ABS with matte black finishing |
-| Off centred insert (40A duro)       | 4   | Injection moulded TPU in blue |
+| Off centred insert (40A duro)        | 4   | Injection moulded TPU in blue |
 | Switch plate (5 x 5)                 | 4   | Injection moulded ABS with matte black finishing |
-| Spacer card (~0.25mm)                | 16  | Paper card with ~0.25mm thick |
+| Spacer card (~0.25mm)                | 20  | Paper card with ~0.2mm thick |
 | Bearing/motor connector              | 1   | Vacuum casted ABS with matte black finishing |
 | 625ZZ bearing with POM wheel         | 1   | - |
 | DC Motor with planetary gearbox      | 1   | - |
 | Power supply (24V 1A rated)          | 1   | - |
 | Bumpon                               | 8   | 8mm diameter |
+| M5 x 16mm                            | 1   | Fasterners for bearing to motor connector |
 | M4 x 30mm                            | 4   | Fasterners for motor and top housing |
 | M4 x 16mm                            | 4   | Fasterners for top housing and bottom housing |
 | M4 nyloc nut                         | 4   | Fasterners for top housing and bottom housing |
