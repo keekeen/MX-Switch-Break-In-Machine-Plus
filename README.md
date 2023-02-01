@@ -23,7 +23,8 @@ Plus-sized break-in machine for MX style switches with the capability of breakin
 - Operating speed: **700-800** actuations/min (measured based on 100 Cherry MX Brown)
   - 100k actuations: 2-3 hrs
   - 1mil actuations: 20-30 hrs 
-- Actuation mode: Supports both centered/off-centered actuation 
+- Actuation mode: Supports both centred/off-centred actuation
+- Materials: Plastic moulded & vacuum casted ABS/TPU parts
 
 ## Bill of materials (BOM) 📜
 Your break-in machine should come pre-assembled. However, below are the parts breakdown for reference.
@@ -32,7 +33,7 @@ Your break-in machine should come pre-assembled. However, below are the parts br
 | Top Housing                          | 1   | Vacuum casted ABS with matte black finishing |
 | Bottom Housing                       | 1   | Vacuum casted ABS with matte black finishing |
 | Pusher                               | 4   | Injection moulded ABS with matte black finishing |
-| Off centered insert (40A duro)       | 4   | Injection moulded TPU in blue |
+| Off centred insert (40A duro)       | 4   | Injection moulded TPU in blue |
 | Switch plate (5 x 5)                 | 4   | Injection moulded ABS with matte black finishing |
 | Spacer card (~0.25mm)                | 16  | Paper card with ~0.25mm thick |
 | Bearing/motor connector              | 1   | Vacuum casted ABS with matte black finishing |
@@ -51,13 +52,14 @@ Below parts are only applicable for counter add-ons.
 | M3 x 12mm                            | 2   | Fasterners for counter switch and top housing |
 
 ## Operation Guide ⚙️
+_To be updated with video_
 
 ## Maintenance/Assembly Guide 🔧
 #### For general maintenace:
-Apply a generous amount of lubricant between the pusher and machine housing and bearing once in awhile/prior to use.
+Apply a generous amount of lubricant between the pusher and machine housing and bearing once in awhile.
 
 #### If you decide to <del>dissect</del> disassemble the machine: 
-Refer to the following as a reference when assembling and please take extra precaution on text that are highlighted in **bold**. 
+_To be updated with video_<br>
 
 ## Changelog 📒
 - `15/01/2023:` Initial documentation draft 
