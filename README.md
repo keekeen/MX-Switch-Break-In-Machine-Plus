@@ -60,6 +60,7 @@ _To be updated with video_
 Apply a generous amount of lubricant between the pusher and machine housing and bearing once in awhile.
 
 #### If you decide to <del>dissect</del> disassemble the machine: 
+If you decide to diassemble the machine, please refer to video instruction.
 _To be updated with video_<br>
 
 ## Changelog 📒
