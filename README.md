@@ -30,13 +30,13 @@ Plus-sized break-in machine for MX style switches with the capability of breakin
 Your break-in machine should come pre-assembled. However, below are the parts breakdown for reference.
 | Part                                 | Qty | Remark                                       |
 | ------------------------------------ | --- | -------------------------------------------- |
-| Top Housing                          | 1   | Vacuum casted ABS with matte black finishing |
-| Bottom Housing                       | 1   | Vacuum casted ABS with matte black finishing |
-| Pusher                               | 4   | Injection moulded ABS with matte black finishing |
-| Off centred insert (40A duro)        | 4   | Injection moulded TPU in blue |
-| Switch plate (5 x 5)                 | 4   | Injection moulded ABS with matte black finishing |
-| Spacer card (~0.25mm)                | 20  | Paper card with ~0.2mm thick |
-| Bearing/motor connector              | 1   | Vacuum casted ABS with matte black finishing |
+| Top Housing                          | 1   | ABS with matte black finishing |
+| Bottom Housing                       | 1   | ABS with matte black finishing |
+| Pusher                               | 4   | ABS with matte black finishing |
+| Off centred insert (40A duro)        | 4   | 40A duro TPU in blue |
+| Switch plate (5 x 5)                 | 4   | ABS with matte black finishing |
+| Spacer card (~0.25mm)                | 20  | Paper card with ~0.25mm thick |
+| Bearing/motor connector              | 1   | ABS with matte black finishing |
 | 625ZZ bearing with POM wheel         | 1   | - |
 | DC Motor with planetary gearbox      | 1   | - |
 | Power supply (24V 1A rated)          | 1   | - |
