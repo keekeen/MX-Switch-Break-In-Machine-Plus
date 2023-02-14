@@ -4,7 +4,7 @@ Status: WIP
 Created: 15-01-2023
 Updated: 15-01-2023
 ---
-<img src="Images/Exploded_View.gif" align="right" width="400px" alt="exploded view">
+<img src="Images/Exploded_View.gif" align="right" width="350px" alt="exploded view">
 
 ## Contents
 - [Summary](#summary)
@@ -17,6 +17,8 @@ Updated: 15-01-2023
 ## Summary
 Plus-sized break-in machine for MX style switches with the capability of breaking in 100 switches at one go.
 
+<img src="Images/DSC05989.jpg" align="middle" alt="prototype sample">
+
 ## Specifications
 - Max number of switches per run: **100 switches**
 - Compatibility: MX style switches with total travel distance of **3-4mm**
@@ -24,8 +26,6 @@ Plus-sized break-in machine for MX style switches with the capability of breakin
   - 100k actuations: 2-3 hrs
   - 1mil actuations: 20-30 hrs 
 - Actuation mode: Supports both centred/off-centred actuation
-
-<img src="Images/DSC05989.jpg" align="middle" alt="prototype sample">
 
 ## Bill of materials (BOM) 📜
 Your break-in machine should come pre-assembled. However, below are the parts breakdown for reference.
