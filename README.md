@@ -17,6 +17,8 @@ Updated: 15-01-2023
 ## Summary
 Plus-sized break-in machine for MX style switches with the capability of breaking in 100 switches at one go.
 
+<img src="Images/DSC05989.jpg" align="middle" alt="prototype sample">
+
 ## Specifications
 - Max number of switches per run: **100 switches**
 - Compatibility: MX style switches with total travel distance of **3-4mm**
