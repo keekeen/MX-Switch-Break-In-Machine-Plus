@@ -28,7 +28,6 @@ Plus-sized break-in machine for MX style switches with the capability of breakin
 <img src="Images/DSC05989.jpg" align="middle" alt="prototype sample">
 
 ## Bill of materials (BOM) 📜
-Your break-in machine should come pre-assembled. However, below are the parts breakdown for reference.
 | Part                                 | Qty | Remark                                       |
 | ------------------------------------ | --- | -------------------------------------------- |
 | Top Housing                          | 1   | - |
