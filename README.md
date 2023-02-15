@@ -33,7 +33,7 @@ Plus-sized break-in machine for MX style switches with the capability of breakin
 | Top Housing                          | 1   | - |
 | Bottom Housing                       | 1   | - |
 | Pusher                               | 4   | - |
-| Off centred insert (40A duro)        | 4   | 40A duro TPU |
+| Silicon insert (40A duro)            | 4   | 40A duro TPU |
 | Switch plate (5 x 5)                 | 4   | - |
 | Spacer card (~0.25mm)                | 20  | PVC card with ~0.25mm thick |
 | Bearing/motor connector              | 1   | - |
