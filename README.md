@@ -19,7 +19,7 @@ Plus-sized break-in machine for MX style switches with the capability of breakin
 
 ## Specifications
 - Max number of switches per run: **100 switches**
-- Compatibility: MX style switches with total travel distance of **3-4mm**
+- Compatibility: MX style switches with total travel distance of **3.25-4mm**
 - Operating speed: **700-800** actuations/min (measured based on 100 Cherry MX Brown)
   - 100k actuations: 2-3 hrs
   - 1mil actuations: 20-30 hrs 
